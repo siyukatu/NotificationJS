@@ -1,2 +1,2 @@
 # NotificationJS
-今の所書くこと無し
+なぜかアニメーションが動かないのでstackoverflowにでも投げます。
